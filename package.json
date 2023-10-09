@@ -28,6 +28,8 @@
     "@stripe/stripe-js": "^1.54.2",
     "nuxt-lodash": "^2.5.0",
     "pinia": "^2.1.6",
+    "prettier": "^3.0.3",
+    "prettier-vue": "^1.1.2",
     "prisma": "^5.1.1",
     "stripe": "^12.17.0"
   }
