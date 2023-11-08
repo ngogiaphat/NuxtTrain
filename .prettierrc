@@ -4,12 +4,18 @@
 	"useTabs": true,
 	"printWidth": 100,
 	"endOfLine": "crlf",
+	"proseWrap": "never",
 	"singleQuote": false,
 	"trailingComma": "all",
-	"bracketSpacing": false,
-	"proseWrap": "preserve",
 	"jsxSingleQuote": false,
-	"arrowParens": "always",
+	"bracketSameLine": true,
+	"bracketSpacing": false,
+	"quoteProps": "as-needed",
+	"jsxBracketSameLine": true,
 	"vueIndentScriptAndStyle": true,
 	"htmlWhitespaceSensitivity": "css"
+	"plugins": [
+		"prettier-vue",
+		"@vue/eslint-config-prettier"
+	]
 }
