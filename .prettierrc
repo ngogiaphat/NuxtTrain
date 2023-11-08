@@ -13,7 +13,7 @@
 	"quoteProps": "as-needed",
 	"jsxBracketSameLine": true,
 	"vueIndentScriptAndStyle": true,
-	"htmlWhitespaceSensitivity": "css"
+	"htmlWhitespaceSensitivity": "css",
 	"plugins": [
 		"prettier-vue",
 		"@vue/eslint-config-prettier"
